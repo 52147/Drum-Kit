@@ -10,7 +10,6 @@ h1 {
     cursive;
   text-shadow: 5px 0 #375cff;
   margin-top: 10%;
-
 }
 
 footer {
@@ -20,40 +19,31 @@ footer {
 }
 
 .w {
-
   background-image: url("images/tom1.png");
-
-
 }
 
 .a {
   background-image: url("images/tom2.png");
-
 }
 
 .s {
   background-image: url("images/tom3-removebg-preview.png");
-
 }
 
 .d {
   background-image: url("images/tom3-removebg-preview.png");
-
 }
 
 .j {
   background-image: url("images/snare-removebg-preview.png");
-
 }
 
 .k {
   background-image: url("images/crash-removebg-preview.png");
-
 }
 
 .l {
   background-image: url("images/kick-removebg-preview.png");
-
 }
 
 .set {
@@ -89,12 +79,9 @@ footer {
   width: 200px;
   height: 200px;
   text-align: center;
-
   background-color: rgb(250, 247, 237);
-
   transition: 0.3s;
   cursor: pointer;
-
   margin: 1%;
 }
 
@@ -102,10 +89,6 @@ footer {
   opacity: 0.7;
   background-color: rgb(250, 213, 179)
 }
-
-
-
-
 
 .imagedropshadow:hover {
   border: solid 1px #CCC;
